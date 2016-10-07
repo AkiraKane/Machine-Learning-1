@@ -2,7 +2,7 @@
 *** Author: Yen-Teh Liu
 
 # Topic covers
-***K Nearest Neighbors(KNN)*** 
-***Logisti Regression***
-***Support Vector Machine(SVM)***
-*** keep updating...***
+##K Nearest Neighbors(KNN) 
+##Logisti Regression
+##Support Vector Machine(SVM)
+##keep updating...
