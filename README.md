@@ -1,5 +1,5 @@
 # This repository contains all the homeworks of Machine Learning class 2016 Fall.
-*** Author: Yen-Teh Liu ***
+**Author: Yen-Teh Liu**
 
 
 ## K Nearest Neighbors(KNN) 
